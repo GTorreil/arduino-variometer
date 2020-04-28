@@ -68,7 +68,7 @@
 
 // Reminder beeps on low battery
 #define HAVE_LOW_BATTERY_BEEP
-#define BATTERY_BEEPS_INTERVAL 2000 // 30000 for prod
+#define BATTERY_BEEPS_INTERVAL 30000 // 30000 for prod
 #define LOW_BATT_BEEP_THRESOLD 3350 // low voltage thresold in mV
 
 /*******************/
